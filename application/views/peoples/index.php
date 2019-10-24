@@ -19,7 +19,7 @@
 
             <div class="row">
                 <div class="col-md">
-                    <!-- <h5>Result : <?= $total_rows; ?></h5> -->
+                    <h5>Result : <?= $total_rows; ?></h5>
                     <table class="table">
                     <thead>
                         <tr>
